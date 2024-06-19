@@ -193,14 +193,30 @@ This specialization provides a foundational understanding of deep learning and n
 <li>Working on advanced projects in computer vision, NLP, and more</li>
 </ul>
 
-
 ## Machine Learning
-1. **Course Title:** Machine Learning
-   - **Provider:** Coursera
-   - **Institution:** Stanford University
-   - **Main Skills Learned:** Supervised learning, unsupervised learning, best practices in machine learning.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [T8DSJ9ZXW2UL](https://www.coursera.org/account/accomplishments/verify/T8DSJ9ZXW2UL)
+
+<p align="justify">
+I have completed Andrew Ng's Machine Learning course (now gone, and the equivalency is with the specialization by the same), which provided a comprehensive foundation in machine learning concepts and practical implementations.
+</p>
+
+#### [Machine Learning by Andrew Ng (Stanford University)](https://www.coursera.org/specializations/machine-learning-introduction)
+- **Description:**<p align="justify">
+The Machine Learning course by Andrew Ng offers a broad introduction to machine learning, data mining, and statistical pattern recognition. The course covers the following key topics:
+   
+  - Supervised learning: parametric/non-parametric algorithms, support vector machines, kernels, and neural networks.
+  - Unsupervised learning: clustering, dimensionality reduction, recommender systems, and deep learning.
+  - Best practices in machine learning: bias/variance theory, innovation process in machine learning and AI.
+</p>
+   
+- **Skills Learned:**
+  - **Supervised Learning:** Techniques including linear regression, logistic regression, neural networks, and support vector machines.
+  - **Unsupervised Learning:** Methods such as k-means clustering and principal component analysis (PCA).
+  - **Practical Application:** Implementation of algorithms in Python, using libraries such as NumPy and scikit-learn.
+  - **Optimization Techniques:** Application of gradient descent and other optimization techniques for improving model performance.
+- **Certificate:**
+  - [Verification Link](https://www.coursera.org/account/accomplishments/verify/T8DSJ9ZXW2UL)
+
+
 
 ## Fundamentals
 
