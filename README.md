@@ -30,7 +30,7 @@ Throughout the course, I will engage in a design challenge, developing a complet
 </ul>
 
 
-## Aerial Robotics
+## Robotics
 No external certificates were completed yet. One is currently taking this specialization:
 
 ### [Robotics Specialization](https://www.coursera.org/specializations/robotics)
