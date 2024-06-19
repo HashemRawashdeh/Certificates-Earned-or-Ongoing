@@ -1,10 +1,9 @@
 # Certificates Earned in RF Engineering, Robotics, and Computer Vision
 <p align="justify">
-This repository showcases a selection of my certificates in RF Engineering, Robotics, Computer Vision, Deep Learning, and Machine Learning, along with fundamental courses in Mathematics, Science, and Programming.
+This repository showcases a selection of my certificates in my current field of professional interest.
 </p>
 <p align="justify">
-Note that these certificates build upon two things: my eternal love for and pursuit of knowledge, and my training as an electrical engineer at the university level. I have been either self-taught—which essentially means using Google, books (PDF), and YouTube—or have credited various courses in the sciences, maths, and engineering. Thus, no direct need for acquiring external certificates in them was deemed useful. For example, I don't have external certificates to show that I am well aware of the fact that objects with a net force applied to them accelerate in the direction of that force, but one certainly knows that. Although what was just said is correct in the general sense, it isn't that accurate if one deeply thinks about it. It isn't the university's job to graduate ready to engineer engineers, and most importantly, well aware of the universe's rules and how to exploit them, humans, so one will continue learning what one bets is interesting, useful, entertaining, and work relevant, in that order of importance.
-</p>
+Note that these certificates build upon two things: my eternal love for and pursuit of knowledge, and my training as an electrical engineer at the university level. I have been either self-taught—which essentially means using Google, books (PDF), research papers, and YouTube—or have credited various courses in the sciences, maths, and engineering during my engineering degree. Thus, no direct need for acquiring external certificates in them was deemed useful. For example, I don't have external certificates to show that I am well aware of the fact that objects with a net force applied to them accelerate in the direction of that force, but one certainly knows that. Although what was just said is correct in the general sense, it isn't that accurate if one deeply thinks about it. It isn't the university's job to graduate ready to engineer engineers, and most importantly, well aware of the universe's rules and how to exploit them, humans, so one will continue learning what one bets is interesting, useful, entertaining, or work relevant.
 
 
 ## RF Engineering
@@ -134,20 +133,66 @@ This course delves into advanced techniques in computer vision, including image 
 
 
 ## Deep Learning
-1. **Specialization Title:** Deep Learning Specialization
-   - **Provider:** Coursera
-   - **Institution:** deeplearning.ai
-   - **Courses in Specialization:** Neural Networks and Deep Learning, Improving Deep Neural Networks, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models
-   - **Main Skills Learned:** Deep learning, neural networks, convolutional networks, sequence models.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [DTPWGVENRAS6](https://www.coursera.org/account/accomplishments/specialization/DTPWGVENRAS6)
 
-2. **Course Title:** Deep Learning with TensorFlow
-   - **Provider:** Coursera
-   - **Institution:** Imperial College London
-   - **Main Skills Learned:** TensorFlow framework, deep learning implementation.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [SJV77DE8HE5J](https://www.coursera.org/account/accomplishments/verify/SJV77DE8HE5J)
+<p align="justify">
+I have completed the Deep Learning Specialization and the Introduction to TensorFlow course offered by DeepLearning.AI on Coursera. These courses provide in-depth knowledge and practical skills in deep learning and neural network architectures, covering a wide range of applications and advanced techniques.
+</p>
+
+#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- **Description:**
+<p align="justify">
+This specialization provides a foundational understanding of deep learning and neural network architectures, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, and Transformers. It includes strategies such as dropout, BatchNorm, and Xavier/He initialization. The specialization emphasizes both theoretical concepts and practical applications using Python and TensorFlow.
+</p>
+
+- **Skills Learned:**
+  - Building and training deep neural networks
+  - Implementing vectorized neural networks
+  - Identifying architecture parameters
+  - Applying optimization algorithms
+  - Reducing errors in machine learning systems
+  - Working with CNNs for visual recognition tasks
+  - Applying RNNs for sequence modeling tasks
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/DTPWGVENRAS6)
+
+  ##### Courses in the Specialization:
+  1. **[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)**
+     - **Description:** Introduction to foundational concepts of neural networks and deep learning. Covers the technological trends driving the rise of deep learning.
+     - **Skills Learned:** TensorFlow, Deep Learning, Hyperparameter Tuning, Mathematical Optimization
+     
+  2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network)**
+     - **Description:** Advanced techniques for improving neural networks, including tuning, regularization, and optimization.
+     - **Skills Learned:** Gated Recurrent Unit (GRU), Recurrent Neural Network, Natural Language Processing, Long Short Term Memory (LSTM), Attention Models
+     
+  3. **[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)**
+     - **Description:** Building successful machine learning projects and decision-making in project leadership.
+     - **Skills Learned:** Artificial Neural Network, Backpropagation, Python Programming, Deep Learning, Neural Network Architecture
+     
+  4. **[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)**
+     - **Description:** Understanding computer vision through CNNs, including visual detection, recognition, and neural style transfer.
+     - **Skills Learned:** Decision-Making, Machine Learning, Deep Learning, Inductive Transfer, Multi-Task Learning
+     
+  5. **[Sequence Models](https://www.coursera.org/learn/sequence-models)**
+     - **Description:** Working with sequence models for applications like speech recognition, chatbots, and NLP.
+     - **Skills Learned:** Facial Recognition System, TensorFlow, Convolutional Neural Network, Deep Learning, Object Detection and Segmentation
+
+#### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+- **Description:** This course provides an introduction to TensorFlow, covering the basics of building and training neural networks using this powerful framework. It focuses on implementing scalable AI-powered algorithms and understanding best practices for using TensorFlow.
+- **Skills Learned:**
+  - Building and training neural networks
+  - Implementing TensorFlow for real-world applications
+  - Applying deep learning techniques
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/SJV77DE8HE5J)
+
+
+#### Main Skills Learned:
+<ul>
+<li>Building and training deep neural networks</li>
+<li>Implementing and tuning various neural network architectures</li>
+<li>Applying deep learning techniques to real-world problems</li>
+<li>Using TensorFlow for scalable AI-powered algorithms</li>
+<li>Working on advanced projects in computer vision, NLP, and more</li>
+</ul>
+
 
 ## Machine Learning
 1. **Course Title:** Machine Learning
