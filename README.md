@@ -87,19 +87,51 @@ I am currently enrolled in the Robotics Specialization offered by the University
 
 
 ## Computer Vision
-1. **Course Title:** Introduction to Computer Vision
-   - **Provider:** Coursera
-   - **Institution:** University of London
-   - **Main Skills Learned:** Image processing, object detection, and computer vision algorithms.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [4Z9B8KF7ZR2V](https://www.coursera.org/account/accomplishments/verify/4Z9B8KF7ZR2V)
 
-2. **Course Title:** Advanced Computer Vision
-   - **Provider:** Coursera
-   - **Institution:** University of London
-   - **Main Skills Learned:** Advanced techniques in computer vision, including 3D vision and video analysis.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [FTXYPYEQL67Y](https://www.coursera.org/account/accomplishments/verify/FTXYPYEQL67Y)
+<p align="justify">
+I have completed the following courses in Computer Vision offered by DeepLearning.AI on Coursera. These courses provide comprehensive knowledge and practical skills in various aspects of computer vision, including convolutional neural networks (CNNs), image classification, object detection, and more. Through these courses, I engaged in hands-on projects and programming assignments that enhanced my understanding of computer vision applications.
+</p>
+
+#### [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+- **Description:**
+<p align="justify">
+This course teaches the fundamentals of building convolutional neural networks and applying them to various image data processing tasks. It covers the journey of an image through convolutions, strategies to prevent overfitting, and the application of transfer learning.
+</p>
+
+-**Skills Learned:**
+  - Handling real-world image data
+  - Plotting loss and accuracy
+  - Strategies to prevent overfitting, including augmentation and dropout
+  - Transfer learning
+    
+-**Project:** Building and training CNN models, implementing transfer learning for image classification tasks
+
+-**Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/4Z9B8KF7ZR2V)
+
+#### [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow)
+- **Description:**
+<p align="justify">
+This course delves into advanced techniques in computer vision, including image classification, object detection, image segmentation, and model interpretability. It also covers applying models such as regional-CNN and ResNet-50 for object detection and localization.
+</p>
+
+- **Skills Learned:**
+  - Image classification
+  - Object detection
+  - Image segmentation
+  - Model interpretability
+  - Object localization
+- **Project:** Implementing advanced CNN architectures like R-CNN and ResNet-50, customizing models for object detection and segmentation tasks
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FTXYPYEQL67Y)
+
+
+#### Main Skills Learned:
+<ul>
+<li>Proficiency in convolutional neural networks (CNNs)</li>
+<li>Ability to implement machine learning models for image classification and object detection</li>
+<li>Experience with image segmentation and model interpretability</li>
+<li>Hands-on experience with programming assignments and real-world projects using TensorFlow</li>
+</ul>
+
 
 ## Deep Learning
 1. **Specialization Title:** Deep Learning Specialization
