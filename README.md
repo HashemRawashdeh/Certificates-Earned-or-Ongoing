@@ -1,4 +1,4 @@
-# Certificates Earned in RF Engineering, Robotics, and Computer Vision
+# Certificates Earned or Ongoing
 <p align="justify">
 This repository showcases a selection of my certificates in my current field of professional interest.
 </p>
