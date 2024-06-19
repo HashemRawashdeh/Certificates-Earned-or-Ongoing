@@ -5,6 +5,24 @@ This repository showcases a selection of my certificates in my current field of 
 <p align="justify">
 Note that these certificates build upon two things: my eternal love for and pursuit of knowledge, and my training as an electrical engineer at the university level. I have been either self-taught—which essentially means using Google, books (PDF), research papers, and YouTube—or have credited various courses in the sciences, maths, and engineering during my engineering degree. Thus, no direct need for acquiring external certificates in them was deemed useful. For example, I don't have external certificates to show that I am well aware of the fact that objects with a net force applied to them accelerate in the direction of that force, but one certainly knows that. Although what was just said is correct in the general sense, it isn't that accurate if one deeply thinks about it. It isn't the university's job to graduate ready to engineer engineers, and most importantly, well aware of the universe's rules and how to exploit them, humans, so one will continue learning what one bets is interesting, useful, entertaining, or work relevant.
 
+# Summary
+
+| Field           | Course/Specialization Title                                   | Status     | Provider   | Institution                      | Details                                                                                                       |
+|-----------------|---------------------------------------------------------------|------------|------------|----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| RF Engineering  | Microwave Engineering and Antennas                            | Ongoing    | Coursera   | Eindhoven University of Technology | [Course Link](https://www.coursera.org/learn/microwave-antenna#modules)                                      |
+| Robotics        | Robotics Specialization                                       | Ongoing    | Coursera   | University of Pennsylvania       | [Specialization Link](https://www.coursera.org/specializations/robotics) Courses: Aerial Robotics, Computational Motion Planning, Mobility, Perception, Estimation and Learning, Robotics Capstone |
+| Computer Vision | Convolutional Neural Networks in TensorFlow                   | Completed  | Coursera   | DeepLearning.AI                  | [Course Link](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)                       |
+| Computer Vision | Advanced Computer Vision with TensorFlow                      | Completed  | Coursera   | DeepLearning.AI                  | [Course Link](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow)                       |
+| Deep Learning   | Deep Learning Specialization                                  | Completed  | Coursera   | DeepLearning.AI                  | [Specialization Link](https://www.coursera.org/specializations/deep-learning) Courses: Neural Networks and Deep Learning, Improving Deep Neural Networks, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models |
+| Deep Learning   | Introduction to TensorFlow for AI, ML, and DL                 | Completed  | Coursera   | DeepLearning.AI                  | [Course Link](https://www.coursera.org/learn/introduction-tensorflow)                                        |
+| Machine Learning| Machine Learning by Andrew Ng (Stanford University)           | Completed  | Coursera   | Stanford University              | [Course Link](https://www.coursera.org/learn/machine-learning)                                               |
+| Maths           | Mathematics for Machine Learning                              | Completed  | Coursera   | Imperial College London          | [Specialization Link](https://www.coursera.org/specializations/mathematics-machine-learning) Courses: Linear Algebra, Multivariate Calculus                                                               |
+| Programming     | Introduction to Programming with MATLAB                       | Completed  | Coursera   | Vanderbilt University            | [Course Link](https://www.coursera.org/learn/matlab)                                                         |
+| Programming     | Python Programmer                                             | Completed  | DataCamp   | N/A                              | [Career Track Link](https://app.datacamp.com/learn/career-tracks/python-programmer)                          |
+| Programming     | Programming for Everybody (Getting Started with Python)       | Completed  | Coursera   | University of Michigan           | [Course Link](https://www.coursera.org/learn/python)                                                         |
+| Programming     | Python Data Structures                                        | Completed  | Coursera   | University of Michigan           | [Course Link](https://www.coursera.org/learn/python-data)                                                    |
+| Miscellaneous   | Simulink Onramp                                               | Completed  | MathWorks  | N/A                              | [Certificate Image](https://github.com/HashemRawashdeh/Certificates-Earned-in-RF_Engineering-Robotics-and-Computer-Vision/blob/main/SORC.png)                    |
+
 
 ## RF Engineering
 No external certificates were completed yet. One is currently taking this course:
@@ -261,9 +279,11 @@ The Machine Learning course by Andrew Ng offers a broad introduction to machine 
    - **Institution:** **University of Michigan**
    - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WKQ5HLBX5RSG)
 
-
-
-
 ### Science
 Details will be added later.
 
+### Miscellaneous
+
+1. **Course Title:** Simulink Onramp
+   - **Provider:** **MathWorks**
+   - **Verification:** [Certificate Image](https://github.com/HashemRawashdeh/Certificates-Earned-in-RF_Engineering-Robotics-and-Computer-Vision/blob/main/SORC.png)
