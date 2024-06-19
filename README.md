@@ -106,7 +106,7 @@ This course teaches the fundamentals of building convolutional neural networks a
     
 -**Project:** Building and training CNN models, implementing transfer learning for image classification tasks
 
--**Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/4Z9B8KF7ZR2V)
+-**Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FTXYPYEQL67Y)
 
 #### [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow)
 - **Description:**
@@ -121,7 +121,7 @@ This course delves into advanced techniques in computer vision, including image 
   - Model interpretability
   - Object localization
 - **Project:** Implementing advanced CNN architectures like R-CNN and ResNet-50, customizing models for object detection and segmentation tasks
-- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FTXYPYEQL67Y)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/4Z9B8KF7ZR2V)
 
 
 #### Main Skills Learned:
