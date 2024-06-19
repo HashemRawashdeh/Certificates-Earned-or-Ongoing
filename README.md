@@ -238,8 +238,6 @@ The Machine Learning course by Andrew Ng offers a broad introduction to machine 
 
 ### Fundamentals
 
-### Fundamentals
-
 #### Maths
 
 1. **Specialization Title:** Mathematics for Machine Learning
