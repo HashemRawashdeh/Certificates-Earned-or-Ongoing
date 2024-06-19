@@ -218,46 +218,51 @@ The Machine Learning course by Andrew Ng offers a broad introduction to machine 
 
 
 
-## Fundamentals
+### Fundamentals
 
-### Maths
+### Fundamentals
+
+#### Maths
+
 1. **Specialization Title:** Mathematics for Machine Learning
-   - **Provider:** Coursera
-   - **Institution:** Imperial College London
-   - **Courses in Specialization:** Linear Algebra, Multivariate Calculus
-   - **Main Skills Learned:** Linear algebra, calculus, and their applications in machine learning.
-   - **Specialization Certificate:** ![Certificate Image](URL)
-   - **Verification:** [JXZKTDFDQM3E](https://www.coursera.org/account/accomplishments/specialization/JXZKTDFDQM3E)
+   - **Provider:** **Coursera**
+   - **Institution:** **Imperial College London**
+   - **Courses Completed in Specialization:** **Linear Algebra, Multivariate Calculus**
+   - **Main Skills Learned:** 
+     - **Linear algebra:** Understanding matrices, vectors, and their operations, eigenvalues and eigenvectors, and how these concepts apply to machine learning algorithms.
+     - **Multivariate calculus:** Differentiation and integration of functions with multiple variables, optimization techniques, and their use in training machine learning models.
+     - **Practical application using Python:** Implementing mathematical concepts in Python for practical machine learning tasks, enhancing the understanding of theoretical concepts through hands-on programming.
+   - **Reason for Taking These Courses:** Despite having studied these topics in college, these courses provided a more practical and application-focused approach, particularly with Python-based exercises. This helped in bridging the gap between theoretical knowledge and real-world machine learning applications.
+
    - **Verification for Linear Algebra:** [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
    - **Verification for Multivariate Calculus:** [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)
 
+- I didn't complete an online course in statistics because I wasn't taught the theory in university. Instead, I self-studied using books like "Introduction to Statistical Learning" and "Think Stats," which provided me with a comprehensive understanding of statistical concepts and their applications. Additionally, the practical statistical methods I needed, such as regression, were covered in the machine learning courses I completed.
+
+
 ### Programming
-1. **Course Title:** Python for Everybody
-   - **Provider:** Coursera
-   - **Institution:** University of Michigan
-   - **Main Skills Learned:** Python programming, data structures, web data.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [9524SV4DG6EH](https://www.coursera.org/account/accomplishments/verify/9524SV4DG6EH)
+
+1. **Course Title:** Introduction to Programming with MATLAB
+   - **Provider:** **Coursera**
+   - **Institution:** **Vanderbilt University**
+   - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/9524SV4DG6EH)
 
 2. **Career Track Title:** Python Programmer
-   - **Provider:** DataCamp
-   - **Main Skills Learned:** Python programming, data analysis, machine learning.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [DataCamp](https://app.datacamp.com/learn/career-tracks/python-programmer)
+   - **Provider:** **DataCamp**
+   - **Verification:** [Verify Certificate](https://github.com/HashemRawashdeh/Certificates-Earned-in-RF_Engineering-Robotics-and-Computer-Vision/blob/main/PPT.png)
 
 3. **Course Title:** Programming for Everybody (Getting Started with Python)
-   - **Provider:** Coursera
-   - **Institution:** University of Michigan
-   - **Main Skills Learned:** Python basics, programming fundamentals.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [49SKV87J8D5P](https://www.coursera.org/account/accomplishments/verify/49SKV87J8D5P)
+   - **Provider:** **Coursera**
+   - **Institution:** **University of Michigan**
+   - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/49SKV87J8D5P)
 
 4. **Course Title:** Python Data Structures
-   - **Provider:** Coursera
-   - **Institution:** University of Michigan
-   - **Main Skills Learned:** Data structures in Python, linked lists, trees.
-   - **Certificate:** ![Certificate Image](URL)
-   - **Verification:** [WKQ5HLBX5RSG](https://www.coursera.org/account/accomplishments/verify/WKQ5HLBX5RSG)
+   - **Provider:** **Coursera**
+   - **Institution:** **University of Michigan**
+   - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WKQ5HLBX5RSG)
+
+
+
 
 ### Science
 Details will be added later.
