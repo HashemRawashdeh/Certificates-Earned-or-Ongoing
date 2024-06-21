@@ -29,7 +29,7 @@ No external certificates were completed yet. One is currently taking this course
 
 ### [Microwave Engineering and Antennas](https://www.coursera.org/learn/microwave-antenna#modules)
 <p align="justify">
-This master-level course offered by the Eindhoven University of Technology. This course provides me with an in-depth understanding of microwave engineering and antennas, covering both passive and active microwave circuits along with antenna systems. It is particularly beneficial for applications in wireless communication systems and automotive radar, enabling me to co-design highly integrated antenna systems that include both antennas and microwave electronics. I will gain a solid theoretical foundation as well as practical experience using state-of-the-art design tools.
+<a href="https://github.com/HashemRawashdeh/Miscellaneous-Supplements/blob/main/Whole.pdf">This is a master-level course offered by the Eindhoven University of Technology, click me for slides</a>. This course provides me with an in-depth understanding of microwave engineering and antennas, covering both passive and active microwave circuits along with antenna systems. It is particularly beneficial for applications in wireless communication systems and automotive radar, enabling me to co-design highly integrated antenna systems that include both antennas and microwave electronics. I will gain a solid theoretical foundation as well as practical experience using state-of-the-art design tools.
 </p>
 
 <p align="justify">
