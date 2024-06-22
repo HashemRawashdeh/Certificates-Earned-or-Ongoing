@@ -25,16 +25,19 @@ Note that these certificates build upon two things: my eternal love for and purs
 
 
 ## RF Engineering
-No external certificates were completed yet. One is currently taking this course:
+<p align="justify">
+The university curriculum comprehensively covered RF-related knowledge, which precluded the need for external certifications thus far. However, there is always more, and continual learning is a must so I am currently engaging in online graduate level technical, and field-specific courses to stay abreast of the latest developments in the field. Additionally, I have leveraged various resources—some of which do not offer certifications or have been audited due to the costs associated with certification—to deepen my understanding of both abstract physical phenomena and their practical applications. Such a resource in this regard is <a href="https://empossible.net/academics/" target="_blank">EMpossible Undergraduate Courses</a>.
+</p>
 
 ### [Microwave Engineering and Antennas](https://www.coursera.org/learn/microwave-antenna#modules)
 <p align="justify">
-<a href="https://github.com/HashemRawashdeh/Miscellaneous-Supplements/blob/main/Whole.pdf">This is a master-level course offered by the Eindhoven University of Technology, click me for slides</a>. This course provides me with an in-depth understanding of microwave engineering and antennas, covering both passive and active microwave circuits along with antenna systems. It is particularly beneficial for applications in wireless communication systems and automotive radar, enabling me to co-design highly integrated antenna systems that include both antennas and microwave electronics. I will gain a solid theoretical foundation as well as practical experience using state-of-the-art design tools.
+This is a master-level course offered by the Eindhoven University of Technology, <a href="https://github.com/HashemRawashdeh/Miscellaneous-Supplements/blob/main/Whole.pdf">click me for slides</a>. This course provides me with an in-depth understanding of microwave engineering and antennas, covering both passive and active microwave circuits along with antenna systems. It is particularly beneficial for applications in wireless communication systems and automotive radar, enabling me to co-design highly integrated antenna systems that include both antennas and microwave electronics. I will gain a solid theoretical foundation as well as practical experience using state-of-the-art design tools such as CST Studio Suite and Advanced Design System (ADS).
 </p>
 
 <p align="justify">
-Throughout the course, I will engage in a design challenge, developing a complete active phased array system, including antennas, beamformers, and amplifiers. The course includes online quizzes to practice theoretical concepts and hands-on design assignments to ensure a comprehensive understanding of both the theoretical and practical aspects of microwave engineering and antenna design.
+Throughout the course, I actively engage in design challenges, developing a complete active phased array system, which includes antennas, beamformers, and amplifiers. The design assignments consistently utilize CST and ADS, ensuring that I apply these advanced tools in real-world scenarios. The course also incorporates online quizzes to reinforce theoretical concepts, complemented by hands-on design assignments that cement a thorough understanding of both theoretical and practical aspects of microwave engineering and antenna design.
 </p>
+
 
 #### Main Skills Learned:
 <ul>
